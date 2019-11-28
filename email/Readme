@@ -1,5 +1,6 @@
 集成邮箱
 发送邮箱在application.yml中mail修改为自己的邮箱
+
 swagger访问：http://localhost:8002/swagger-ui.html#/
 
 
