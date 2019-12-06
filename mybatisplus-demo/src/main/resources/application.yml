@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: mybatisplus-demo
+  profiles:
+    active: dev
+
+logging:
+    level:
+        com: debug
+    pattern:
+      dateformat: yyyy-MM-dd HH:mm:ss
+

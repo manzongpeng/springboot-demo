@@ -1,0 +1,13 @@
+springboot集成mybatisPlus
+
+一、自动生成代码类是：MybatisPlusGenerator.java
+    1.需要里面TODO注释的内容（DB连接设置，包名，表名），其他设置可根据自身需求修改；
+    2.运行main方法。
+
+二、项目启动
+  1.修改application-dev.yml文件中DB设置
+  2.启动项目
+  3.swagger访问：http://localhost:8888/swagger-ui.html
+
+
+
