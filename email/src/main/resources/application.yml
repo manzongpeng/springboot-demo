@@ -61,8 +61,8 @@ spring:
   # 普通QQ邮箱
   mail:
     host: smtp.qq.com
-    username: 1422336208@qq.com # 邮箱账号
-    password: iugsyzzxnkpqhicj # 授权码
+    username: xxx@qq.com # 邮箱账号
+    password: xxx # 授权码
     properties:
       mail:
         smtp:
